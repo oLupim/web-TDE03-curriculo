@@ -1,0 +1,42 @@
+body {
+
+    background-color: rgb(3, 38, 66); 
+    margin-left: 15%; 
+    margin-right: 15%;
+}
+
+.folha1 {
+
+    background-color: whitesmoke; 
+    border-radius: 25px; 
+    display: inline-block; 
+    margin: 50px;
+}
+
+.titulo-curriculo {
+
+    margin: 50px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.fotoperfil {
+
+    width: 200px;
+    border: 5px solid rgb(3, 38, 66);
+    border-radius: 100%;
+    margin-left: 900px;
+    margin-top: -120px;
+    box-shadow: 5px 5px 10px rgba(1, 14, 26, 0.7);
+    
+}
+
+.link {
+
+    color: black;
+}
+
+.icone {
+
+    width: 20px
+}
